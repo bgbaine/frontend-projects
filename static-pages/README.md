@@ -2,38 +2,6 @@
 
 Welcome to the directory containing various static pages created in class. Each folder includes a specific application designed to meet different needs. Below is a brief overview of each folder:
 
-## Directory Structure
-
-```
-/static-pages
-│
-├── non-responsive
-│   ├── bandage
-│   │   └── A web page for a fictional company with a sleek header and service sections.
-│   │
-│   ├── central-world
-│   │   └── A music store page featuring new products and popular finds.
-│   │
-│   ├── fruta&fruto
-│   │   └── A site promoting healthy eating with recipes and a welcoming banner.
-│   │
-│   └── neworld
-│       └── A travel app platform for discovering destinations and managing plans.
-│
-└── responsive
-    ├── alura-geek
-    │   └── An online store for geek culture with collectibles and organized product listings.
-    │
-    ├── digital-agency
-    │   └── A platform for a marketing agency showcasing services and client testimonials.
-    │
-    ├── start
-    │   └── A modern landing page for a creative agency with sections for services and team.
-    │
-    └── sweetdeli
-        └── A login page with a modern layout and options for email or social media sign-in.
-```
-
 ## Projects by Directory
 
 ### 1. `responsive`
@@ -91,3 +59,35 @@ Welcome to the directory containing various static pages created in class. Each 
 <div>
     <img src="../media/neworld1.PNG" alt="NeWorld App">
 </div>
+
+## Directory Structure
+
+```
+/static-pages
+│
+├── non-responsive
+│   ├── bandage
+│   │   └── A web page for a fictional company with a sleek header and service sections.
+│   │
+│   ├── central-world
+│   │   └── A music store page featuring new products and popular finds.
+│   │
+│   ├── fruta&fruto
+│   │   └── A site promoting healthy eating with recipes and a welcoming banner.
+│   │
+│   └── neworld
+│       └── A travel app platform for discovering destinations and managing plans.
+│
+└── responsive
+    ├── alura-geek
+    │   └── An online store for geek culture with collectibles and organized product listings.
+    │
+    ├── digital-agency
+    │   └── A platform for a marketing agency showcasing services and client testimonials.
+    │
+    ├── start
+    │   └── A modern landing page for a creative agency with sections for services and team.
+    │
+    └── sweetdeli
+        └── A login page with a modern layout and options for email or social media sign-in.
+```
