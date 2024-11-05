@@ -2,17 +2,6 @@
 
 Welcome to the repository for my frontend-only college projects.
 
-## Folder Structure
-
-- **dynamic-pages/**  
-  Contains various React applications made in class.
-
-- **media/**  
-  Contains images used in various README files.
-
-- **static-pages/**  
-  Contains various static pages made in class.
-
 ## Featured Projects
 ### **static-pages/alura-geek**
 
@@ -40,3 +29,14 @@ Welcome to the repository for my frontend-only college projects.
 <div>
     <img src="./media/revenda.PNG">
 </div>
+
+## Folder Structure
+
+- **dynamic-pages/**  
+  Contains various React applications made in class.
+
+- **media/**  
+  Contains images used in various README files.
+
+- **static-pages/**  
+  Contains various static pages made in class.
